@@ -5,6 +5,7 @@ MediConnect: Patient Engagement & Health Tracking CRM for clinics/hospitals.
 Goals: automate booking & reminders, manage patient records, enable patient-doctor engagement, track follow-ups, provide admin dashboards.
 
 ##Scope
+
 In scope: Patient registration, appointment scheduling, reminders (SMS/email), chronic health tracking, doctor notes, admin dashboards.
 Out of scope (Phase 1): Full EMR integrations, billing/payments.
 
