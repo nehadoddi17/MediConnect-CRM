@@ -1,0 +1,12 @@
+@startuml
+actor Patient
+actor Receptionist
+actor System
+Patient -> WebForm : submit inquiry
+WebForm -> System : create Lead
+System -> Receptionist : notify
+Receptionist -> System : convert Lead -> Patient record
+Patient -> System : book appointment
+System -> Doctor : calendar update
+System -> Patient : send SMS reminder
+@enduml

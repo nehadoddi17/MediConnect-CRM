@@ -1,0 +1,7 @@
+@startuml
+actor Patient
+actor Receptionist
+Receptionist -> "Paper register" : record details
+Receptionist -> Doctor : schedule by phone
+Patient -> Doctor : visits
+@enduml
