@@ -7,6 +7,7 @@ Goals: automate booking & reminders, manage patient records, enable patient-doct
 ##Scope
 
 In scope: Patient registration, appointment scheduling, reminders (SMS/email), chronic health tracking, doctor notes, admin dashboards.
+
 Out of scope (Phase 1): Full EMR integrations, billing/payments.
 
 ## Functional requirements
