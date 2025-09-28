@@ -1,0 +1,13 @@
+<template>
+    <lightning-card title="Patient Info">
+        <template if:true={patient}>
+            <p>Name: {patient.Name}</p>
+            <p>Age: {patient.Age__c}</p>
+            <p>Email: {patient.Patient_Email__c}</p>
+            <p>History: {patient.Medical_History__c}</p>
+        </template>
+        <template if:false={patient}>
+            <p>Loading patient info...</p>
+        </template>
+    </lightning-card>
+</template>
