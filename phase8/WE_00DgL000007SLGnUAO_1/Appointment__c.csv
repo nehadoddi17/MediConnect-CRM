@@ -1,0 +1,2 @@
+"Id","OwnerId","IsDeleted","Name","RecordTypeId","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","Appointment_Date__c","Appointment_Time__c","Doctor__c","Patient__c","Duration__c","Location__c","Status__c"
+"a03gL00000Cfi7pQAB","005gL000005B9hpQAC","0","APT-0001","","2025-09-19 10:15:06","005gL000005B9hpQAC","2025-09-19 10:15:06","005gL000005B9hpQAC","2025-09-19 10:15:06","2025-09-20 00:00:00","36000000","005gL000007rTr3QAE","a02gL0000070dmwQAA","","",""

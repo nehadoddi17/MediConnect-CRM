@@ -1,0 +1,4 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","Specialization__c","Email_Doctor__c"
+"a08gL00000BEZArQAP","005gL000005B9hpQAC","0","Dr. Priya Sharma","2025-10-04 07:06:02","005gL000005B9hpQAC","2025-10-04 07:06:02","005gL000005B9hpQAC","2025-10-04 07:06:02","Cardiologist","priya.sharma@hospital.com"
+"a08gL00000BEZAsQAP","005gL000005B9hpQAC","0","Dr. Arjun Mehta","2025-10-04 07:06:02","005gL000005B9hpQAC","2025-10-04 07:06:02","005gL000005B9hpQAC","2025-10-04 07:06:02","Dermatologist","arjun.mehta@hospital.com"
+"a08gL00000BEZAtQAP","005gL000005B9hpQAC","0","Dr. Riya Kapoor","2025-10-04 07:06:02","005gL000005B9hpQAC","2025-10-04 07:06:02","005gL000005B9hpQAC","2025-10-04 07:06:02","Pediatrician","riya.kapoor@hospital.com"
